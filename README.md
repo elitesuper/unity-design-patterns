@@ -46,11 +46,11 @@ Patterns to do:
 
 [1]: http://gameprogrammingpatterns.com/
 [2]: http://www.rivellomultimediaconsulting.com/unity3d-csharp-design-patterns/
-[command pattern]:https://github.com/Naphier/unity-design-patterns/tree/master/Assets/command%20pattern
-[abstract factory pattern]:https://github.com/Naphier/unity-design-patterns/tree/master/Assets/abstract%20factory
-[flyweight pattern]:https://github.com/Naphier/unity-design-patterns/tree/master/Assets/flyweight%20pattern
-[contributors.md]:https://github.com/Naphier/unity-design-patterns/blob/master/contributors.md
-[builder pattern]:https://github.com/Naphier/unity-design-patterns/tree/master/Assets/builder%20pattern
-[factory method pattern]:https://github.com/Naphier/unity-design-patterns/tree/master/Assets/factory%20method%20pattern
-[decorator pattern]:https://github.com/Naphier/unity-design-patterns/tree/master/Assets/decorator
-[strategy pattern]:https://github.com/Naphier/unity-design-patterns/tree/master/Assets/strategy%20pattern
+[command pattern]:https://github.com/elitesuper/unity-design-patterns/tree/master/Assets/command%20pattern
+[abstract factory pattern]:https://github.com/elitesuper/unity-design-patterns/tree/master/Assets/abstract%20factory
+[flyweight pattern]:https://github.com/elitesuper/unity-design-patterns/tree/master/Assets/flyweight%20pattern
+[contributors.md]:https://github.com/elitesuper/unity-design-patterns/blob/master/contributors.md
+[builder pattern]:https://github.com/elitesuper/unity-design-patterns/tree/master/Assets/builder%20pattern
+[factory method pattern]:https://github.com/elitesuper/unity-design-patterns/tree/master/Assets/factory%20method%20pattern
+[decorator pattern]:https://github.com/elitesuper/unity-design-patterns/tree/master/Assets/decorator
+[strategy pattern]:https://github.com/elitesuper/unity-design-patterns/tree/master/Assets/strategy%20pattern
